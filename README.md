@@ -1,21 +1,15 @@
-Análise Técnica do Projeto - M5 (Login e CRUD)
-
 📝 Descrição do Projeto
 
-Este documento combina a análise de dois módulos interligados:
-
 1.
-M5 Login (FP03): Implementa um sistema de autenticação (login) básico utilizando PHP e MySQL para validar credenciais de utilizadores.
+M5 Login (FP03): Implementa um login básico baseado em PHP e MySQL para validar credenciais de utilizadores.
 
 2.
-M5 CRUD (FP03): Implementa as operações CRUD (Create, Read, Update, Delete) para a gestão de dados, neste caso, de Alunos e Produtos.
+M5 CRUD (FP03): Implementa as operações CRUD (Create, Read, Update, Delete) para a gestão de Alunos e Produtos.
 
 O projeto demonstra a interação entre formulários HTML/Bootstrap e scripts PHP que utilizam a extensão PDO para comunicação com a base de dados. A análise da base de dados é baseada no dump SQL fornecido (if0_40156192_modulo5_db.sql).
 
 🛠️ Tecnologias Utilizadas
 
-Tecnologia
-Propósito
 PHP
 Lógica de backend, processamento de formulários e c
 omunicação com a base de dados.
